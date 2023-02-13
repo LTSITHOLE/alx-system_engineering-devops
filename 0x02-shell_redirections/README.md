@@ -15,3 +15,9 @@
 14-findthatword display lines containing root from the file /etc/passwd
 15-countthatword display lines containing bin from the file /etc/passwd
 16-whatsnext display lines containing root from the file /etc/passwd & 3 line after
+17-hidethisword display all fine that doent contain bin in /etc/passwd
+18-letteronly display all lines start with the letter 
+19-AZ replacing letters with input
+20-hiago removes all letters c and C from input
+21-reverse reverse the input
+22-users_and_homes display sorted of users with their home derectories
