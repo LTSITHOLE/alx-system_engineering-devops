@@ -21,3 +21,7 @@
 20-hiago removes all letters c and C from input
 21-reverse reverse the input
 22-users_and_homes display sorted of users with their home derectories
+100-empty_casks empty casks
+101-gifs display gif files
+102-acrostic poem
+103-the_biggest_fan the biggest fan
