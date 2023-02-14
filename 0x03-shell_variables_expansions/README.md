@@ -8,3 +8,4 @@
 7-create_global_variable creates global variable
 8-true_knowledge display addition of variable
 9-divide_and_rule display power divided by divide
+10-love_exponent_breath display BRAETH to the POWER LOVE
