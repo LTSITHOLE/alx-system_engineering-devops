@@ -4,3 +4,4 @@
 3-paths count number of directories
 4-global_variables creates environment variables lists
 5-local_variables list all scoped variables
+6-create_local_variable creates local variable Best
