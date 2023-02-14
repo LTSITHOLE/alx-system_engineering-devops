@@ -14,3 +14,4 @@
 13-print_float number with two decimal place
 100-decimal_to_hexadecimal convert base 10 to base 16
 101-rot13 decode and ecode using rot13
+102-odd prints input
