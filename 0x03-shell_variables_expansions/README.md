@@ -5,3 +5,4 @@
 4-global_variables creates environment variables lists
 5-local_variables list all scoped variables
 6-create_local_variable creates local variable Best
+7-create_global_variable creates global variable
