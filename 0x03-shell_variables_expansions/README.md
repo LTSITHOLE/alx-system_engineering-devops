@@ -11,3 +11,4 @@
 10-love_exponent_breath display BRAETH to the POWER LOVE
 11-binary_to_decimal convert base 2 to base 10
 12-combinations prints all possible combination of two latters
+13-print_float number with two decimal place
