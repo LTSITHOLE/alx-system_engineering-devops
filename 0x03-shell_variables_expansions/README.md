@@ -10,3 +10,4 @@
 9-divide_and_rule display power divided by divide
 10-love_exponent_breath display BRAETH to the POWER LOVE
 11-binary_to_decimal convert base 2 to base 10
+12-combinations prints all possible combination of two latters
