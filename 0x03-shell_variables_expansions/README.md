@@ -12,3 +12,4 @@
 11-binary_to_decimal convert base 2 to base 10
 12-combinations prints all possible combination of two latters
 13-print_float number with two decimal place
+100-decimal_to_hexadecimal convert base 10 to base 16
